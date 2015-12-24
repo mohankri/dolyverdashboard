@@ -8,9 +8,9 @@ cp bower_components dashboard
 Integrate Experimental DashBoard to Apache
 
 =========================================
-<!--
+
 Edit /etc/apache2/ports.conf with
-	Listen	81
+Listen	81
 
 Add /etc/apache2/sites-available/000-default.conf
 
@@ -29,10 +29,4 @@ Add /etc/apache2/sites-available/000-default.conf
 </VirtualHost>
 
 Try your browser http://127.0.0.1:81
-
-
--->
-	
-
-
 
