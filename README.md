@@ -1,10 +1,12 @@
 # dasboard 
-
+'''
 cd dashboard
 bower install
 
 cp bower_components dashboard
+'''
 
+'''
 Integrate Experimental DashBoard to Apache
 
 =========================================
@@ -30,3 +32,4 @@ Add /etc/apache2/sites-available/000-default.conf
 
 Try your browser http://127.0.0.1:81
 
+'''
